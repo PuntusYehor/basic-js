@@ -1,6 +1,6 @@
 const { expect, assert } = require('chai');
 const { testOptional } = require('../extensions/index.js');
-const { repeater } = require('../src/extended-repeater.js');
+const { repeater } = require('../extended-repeater.js');
 
 it.optional = testOptional;
 

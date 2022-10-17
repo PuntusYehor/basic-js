@@ -1,4 +1,4 @@
-const { NotImplementedError } = require('../extensions/index.js');
+const { NotImplementedError } = require('./extensions/index.js');
 
 /**
  * Create a repeating string based on the given parameters
